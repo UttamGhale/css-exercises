@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.odd {
+ color: black;
+ background-color: rgb(255, 167, 167);
+ font-family: Verdana;
+ font-size: 18px;
+ font-weight: 400;
+}
+#second {
+  font-size: 36px;
+  color: #0000ff;
+  font-family: Verdana;
+ font-weight: 400;
+}
+#four {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: hsl(120, 100%, 75);
+}
+.odd#three {
+  font-size: 24px;
+}
